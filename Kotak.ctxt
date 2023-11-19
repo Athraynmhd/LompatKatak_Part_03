@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Kotak
+comment1.params=
+comment1.target=Kotak()
+comment2.params=isi
+comment2.target=void\ addIsi(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getIsi()
+comment4.params=
+comment4.target=boolean\ isThereIsi()
+numComments=5

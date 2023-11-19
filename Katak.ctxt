@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Katak
+comment1.params=
+comment1.target=Katak()
+comment2.params=
+comment2.target=int\ getSkor()
+comment3.params=skor
+comment3.target=void\ setSkor(int)
+comment4.params=
+comment4.target=void\ loncatDekat()
+comment5.params=
+comment5.target=void\ loncatJauh()
+numComments=6
